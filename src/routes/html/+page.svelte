@@ -30,7 +30,7 @@
 	</div>
 
 	<div class="chats">
-		<div>сообщение последнее</div>
+		<div><a href="https://github.com/aksiere/test720">исходники здесь</a></div>
 		<div>сообщение</div>
 		<div>сообщение</div>
 		<div>сообщение</div>
