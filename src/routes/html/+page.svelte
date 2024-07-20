@@ -101,13 +101,15 @@
 
 	.chats {
 		grid-area: 2 / 2 / 5 / 6;
+		display: flex;
+		flex-direction: column-reverse;
 
 		& > div:first-child {
-			margin-top: 1rem;
+			margin-bottom: 1rem;
 		}
 
 		& > div:last-child {
-			margin-bottom: 1rem;
+			margin-top: 1rem;
 		}
 	}
 
